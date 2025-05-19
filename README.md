@@ -79,25 +79,8 @@ npm run build
 
 ---
 
-## 📷 Screenshot
 
-![App Screenshot](./path-to-screenshot.png) <sub>Replace with actual screenshot path if you'd like to show your app UI.</sub>
 
----
-
-## 🙌 Acknowledgements
-
-* React documentation
-* React Router documentation
-* Tailwind CSS documentation
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 Let me know if you’d like to include deployment instructions, environment variables, or backend integration.
 
