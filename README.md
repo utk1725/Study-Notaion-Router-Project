@@ -79,6 +79,10 @@ npm run build
 
 ---
 
+**Preview**
+![PHOTO-2025-05-19-16-27-36](https://github.com/user-attachments/assets/1fd8b1bf-6494-4908-a42e-d7c87b0518db)
+
+![PHOTO-2025-05-19-16-27-56](https://github.com/user-attachments/assets/afbfe428-a58d-4204-b9f0-1049e87d8467)
 
 
 
